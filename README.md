@@ -7,3 +7,8 @@ regular expression을 공부하고 정리하는 저장소
 [4일차] Wildcard Character   
 [5일차] Square Bracket
 [6일차] Excluding Specific Characters
+[7일차] Character Ranges
+[8일차] Catching some zzz's copy
+[9일차] Mr. Kleene, Mr. Kleene
+[10일차] Characters optional
+[11일차] All this whitespace
